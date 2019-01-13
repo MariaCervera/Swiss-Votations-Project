@@ -1,8 +1,10 @@
-# ADA Project
-Influence of demographic, economic and social characteristics of cantons in the results of Swiss federal votations. 
-January 2017
+# Applied Data Analysis Project
 
+<a href="https://dlab.epfl.ch/teaching/fall2018/cs401/">https://dlab.epfl.ch/teaching/fall2018/cs401/</a>
+Fall semester 2016
 Authors: Clémentine Aguet, María Cervera and Claire Lugrin
+
+Influence of demographic, economic and social characteristics of cantons in the results of Swiss federal votations. 
 
 ## Abstract
 
